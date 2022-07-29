@@ -14,4 +14,4 @@ This project is an example of Sectioned RecyclerView and implements a simple lis
 
 **For more on _Sectioned List using RecyclerView_, read my Medium Article**
 
-[Create a Sectioned List in Android using RecyclerView]()
+[Create a Sectioned List in Android using RecyclerView](https://prezrohit.medium.com/sectioned-list-recyclerview-android-85cfaca935c1)
